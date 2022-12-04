@@ -22,6 +22,7 @@ def random_predict(number:int=1) -> int:
 
 max_num = 100
 
+
 def logic_predict(number:int=1) -> int:
     """ Guesses the number logically by getting answer greater or less.
 
