@@ -39,7 +39,7 @@ def print_predictions(preds):
 model = load_model()
 
 
-st.title('Новая улучшенная классификации изображений в облаке Streamlit')
+st.title('Новая улучшенная классификации изображений в облаке Streamlit my copy')
 img = load_image()
 result = st.button('Распознать изображение')
 if result:
